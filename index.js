@@ -1,11 +1,12 @@
 
-
+// Import inquirer and files
 
 var inquirer = require('inquirer');
 const SVG = require("./lib/svg");
 const { Circle, Triangle, Square } = require("./lib/shapes");
 const { writeFile } = require("fs/promises");
 
+// prompt questions criteria
 inquirer
   .prompt([
         {
@@ -34,6 +35,8 @@ inquirer
           message: "Choose a color to fill the shape",
         },
       ])
+
+      
       .then(({ text, textColor, shapeType, shapeColor }) => {
         let shape;
         switch (shapeType) {
