@@ -11,5 +11,8 @@
     "test": "jest"
   },
   "author": "VJ Wilson",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
