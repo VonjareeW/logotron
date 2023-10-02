@@ -1,0 +1,15 @@
+{
+  "name": "logotron",
+  "version": "1.0.0",
+  "description": "Logotron svg logo maker",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "VJ Wilson",
+  "license": "MIT"
+}
