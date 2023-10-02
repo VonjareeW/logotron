@@ -1,0 +1,11 @@
+### VonjareeW's .gitignore 
+# Template - Mac 
+
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+node_modules
+logo.svg
+dist

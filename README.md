@@ -1,4 +1,4 @@
-# Vyzenkey SVG logo generator
+# Logotron SVG logo generator
 
   ## Description
   A simple logo  generator for my projects that is absolutely free!
