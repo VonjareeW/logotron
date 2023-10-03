@@ -36,7 +36,7 @@ inquirer
         },
       ])
 
-      
+      // shapes to be rendered 
       .then(({ text, textColor, shapeType, shapeColor }) => {
         let shape;
         switch (shapeType) {
@@ -53,7 +53,7 @@ inquirer
             break;
         }
         shape.setColor(shapeColor);
-
+// svg logo to be rendered and named 
         const svg = new SVG();
         svg.setText(text, textColor);
         svg.setShape(shape);
