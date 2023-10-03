@@ -46,8 +46,8 @@ This project is licensed under the [MIT License](./LICENSE).
 ](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 
 [
-](https://en.wikipedia.org/wiki/SVG)## Video link
-  
+](https://en.wikipedia.org/wiki/SVG)
+
   ## Screenshots
     
 <img width="1106" alt="Screenshot 2023-10-02 at 10 17 39 PM" src="https://github.com/VonjareeW/logotron/assets/52430595/fd7609f9-1d87-495c-b3c3-000d09e2d7ac">
